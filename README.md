@@ -5,6 +5,7 @@ This network was trained on the cityscapes dataset for autonomous vehicles. It a
 Results On Validation Set
 
 ![](/Images/Results_Generic.png)
+
 Results On Generic Image
 
 The complete list of relevant classes is detailed [here](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py).
