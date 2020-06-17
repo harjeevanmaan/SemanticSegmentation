@@ -10,4 +10,4 @@ Results On Generic Image
 
 The complete list of relevant classes is detailed [here](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py).
 
-![](/Images/NetworkOverview.png
+![](/Images/NetworkOverview.png)
